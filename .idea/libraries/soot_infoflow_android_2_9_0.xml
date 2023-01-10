@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="soot-infoflow-android-2.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/soot-infoflow-android-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/soot-infoflow-summaries-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/zip4j-2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
